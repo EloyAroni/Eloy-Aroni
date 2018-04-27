@@ -1,4 +1,5 @@
 
+####Cuantificación del número de embarcaciones totales (NPP-VIIRS)########
 library(raster) 
 library(sp)
 library(rgdal)
